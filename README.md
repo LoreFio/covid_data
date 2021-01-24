@@ -1,2 +1,3 @@
-# covid_data
-First wave prediction using ODE models and semantic study
+# Covid Models
+
+Mathematical models for predicting the results of the Covid19 
